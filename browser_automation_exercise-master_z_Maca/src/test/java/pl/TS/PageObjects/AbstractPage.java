@@ -1,4 +1,4 @@
-package pl.soflab.PageObjects;
+package pl.TS.PageObjects;
 
 import org.openqa.selenium.WebDriver;
 

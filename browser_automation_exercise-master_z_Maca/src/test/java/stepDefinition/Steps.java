@@ -13,12 +13,12 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import pl.soflab.PageObjects.CategoryPage;
-import pl.soflab.PageObjects.ConfirmAccountPage;
-import pl.soflab.PageObjects.CreateAnAccountPage;
-import pl.soflab.PageObjects.LandingPage;
-import pl.soflab.PageObjects.LogInPage;
-import pl.soflab.PageObjects.ProductPage;
+import pl.TS.PageObjects.CategoryPage;
+import pl.TS.PageObjects.ConfirmAccountPage;
+import pl.TS.PageObjects.CreateAnAccountPage;
+import pl.TS.PageObjects.LandingPage;
+import pl.TS.PageObjects.LogInPage;
+import pl.TS.PageObjects.ProductPage;
 
 public class Steps {
 

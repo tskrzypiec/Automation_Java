@@ -1,4 +1,4 @@
-package pl.soflab.AutomationTestExercise;
+package pl.TS.AutomationTestJava;
 
 import org.junit.runner.RunWith;
 

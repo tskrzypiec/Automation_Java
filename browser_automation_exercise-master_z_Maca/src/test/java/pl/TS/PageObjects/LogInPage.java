@@ -1,4 +1,4 @@
-package pl.soflab.PageObjects;
+package pl.TS.PageObjects;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
